@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shivasingh0582@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Himanshu%20singh/Downloads/Himanshu's%20Resume%20(1).pdf](file:///C:/Users/Himanshu%20singh/Downloads/Himanshu's%20Resume%20(1).pdf)
+- 📄 Know about my experiences [https://app.luminpdf.com/viewer/61fcc61750143200193220ef](https://app.luminpdf.com/viewer/61fcc61750143200193220ef)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
