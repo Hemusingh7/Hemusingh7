@@ -6,8 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemusingh7" alt="hemusingh7" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/himansh27801255" target="blank"><img src="https://img.shields.io/twitter/follow/himansh27801255?logo=twitter&style=for-the-badge" alt="himansh27801255" /></a> </p>
-<img align="right" alt="Coding" width="400" src="![photo-1603468620905-8de7d86b781e](https://user-images.githubusercontent.com/85925493/152487559-4a97d556-3449-448f-9ee0-8f6a93a03397.jpg)
-">
+<img align="right" alt="Coding" width="400" src="photo-1603468620905-8de7d86b781e.jpg">
 
 
 - 🔭 I’m currently working on **WEB DEVELOPMENT,C++ AND DATA STRUCTURE**
