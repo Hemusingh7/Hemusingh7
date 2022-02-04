@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/himansh27801255" target="blank"><img src="https://img.shields.io/twitter/follow/himansh27801255?logo=twitter&style=for-the-badge" alt="himansh27801255" /></a> </p>
 
-- 🔭 I’m currently working on **WEB DEVELOPMENT<C++ AND DATA STRUCTURE**
+- 🔭 I’m currently working on **WEB DEVELOPMENT,C++ AND DATA STRUCTURE**
 
-- 🌱 I’m currently learning **Data Structure, Java,Jss,Php admin**
+- 🌱 I’m currently learning **Data Structure, Java, Php admin**
 
 - 💬 Ask me about **HTML,CSS,JSS or C++**
 
 - 📫 How to reach me **shivasingh0582@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Himanshu%20singh/Downloads/Himanshu%20Resume%20%20(1).pdf](file:///C:/Users/Himanshu%20singh/Downloads/Himanshu%20Resume%20%20(1).pdf)
+- 📄 Know about my experiences [file:///C:/Users/Himanshu%20singh/Downloads/Himanshu's%20Resume%20(1).pdf](file:///C:/Users/Himanshu%20singh/Downloads/Himanshu's%20Resume%20(1).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
