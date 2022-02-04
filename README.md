@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemusingh7" alt="hemusingh7" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/himansh27801255" target="blank"><img src="https://img.shields.io/twitter/follow/himansh27801255?logo=twitter&style=for-the-badge" alt="himansh27801255" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 
 - 🔭 I’m currently working on **WEB DEVELOPMENT,C++ AND DATA STRUCTURE**
 
@@ -14,7 +16,9 @@
 - 💬 Ask me about **HTML,CSS,JSS or C++**
 
 - 📫 How to reach me **shivasingh0582@gmail.com**
-
+- 
+- ⚡ Fun fact **I think I am funny XD**
+- 
 - 📄 Know about my experiences [https://app.luminpdf.com/viewer/61fcc61750143200193220ef](https://app.luminpdf.com/viewer/61fcc61750143200193220ef)
 
 <h3 align="left">Connect with me:</h3>
